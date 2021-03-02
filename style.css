@@ -19,6 +19,10 @@
   100% { transform: rotate( 0.0deg) }
 }
 
+@keyframes rise {
+    to { transform: translateY(-10px) }
+}
+
 .socials {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -175,11 +179,14 @@ nav ul li a {
 }
 
 a {
-    color: red
+    color: red;
+    transition: transform 250ms;
+    transition-timing-function: ease;
 }
 
 a:hover {
     text-decoration-line: underline;
+    transform: translateY(-5px)
 }
 
 nav ul li a.active {
