@@ -1,0 +1,56 @@
+====================================================================
+https://keybase.io/mmkay
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mikey.is-a.dev
+  * I am mmkay (https://keybase.io/mmkay) on keybase.
+  * I have a public key ASC4XuOMYkEhhtdaVmiSS1NN7kXpCT8GZZhsxkeiGPEnUgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b85ee38c62412186d75a5668924b534dee45e9093f0665986cc647a218f127520a",
+      "host": "keybase.io",
+      "kid": "0120b85ee38c62412186d75a5668924b534dee45e9093f0665986cc647a218f127520a",
+      "uid": "60fd0753fb2beb868d42a17e7e41fd19",
+      "username": "mmkay"
+    },
+    "merkle_root": {
+      "ctime": 1616439207,
+      "hash": "0aa37ce0635a7a0a9936959f7bcecbdc8f91743a26561e3da6a30171164cc21cfe0bcef6335de7b8370a2b53de4d40e85674b13524f3b971fb7f5cbf5340438a",
+      "hash_meta": "651a9ea1cb805932358f7adb59b213c1c840807859f6b76a204493da15b9ca03",
+      "seqno": 19441367
+    },
+    "service": {
+      "entropy": "6zlBWQi4MLpoHwnew8BzHp8b",
+      "hostname": "mikey.is-a.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1616439258,
+  "expire_in": 504576000,
+  "prev": "a005ea701676cacbc5fa6c62194fe205447713eb25988cffb59f642b8d546763",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEguF7jjGJBIYbXWlZokktTTe5F6Qk/BmWYbMZHohjxJ1IKp3BheWxvYWTESpcCEMQgoAXqcBZ2ysvF+mxiGU/iBUR3E+slmIz/tZ9kK41UZ2PEIMquJCbkS6nFF7WPtqCq5aX6bMwPY55zO/UaIL2XHSUQAgHCo3NpZ8RAmAuxk//SN+5vxebA7ARODsU6wtN32pDMCHIeba0NYbObSRqu5GU5Sd7ZWypjRIFqzAsfE4Q4zNtShp1veuUcC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHh/3PKovJyb9bCAxSuC36f6ESqjySPx0uwQsuNv988po3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mmkay
+
+==================================================================
